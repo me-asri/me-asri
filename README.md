@@ -2,7 +2,7 @@
 ## Howdy there! I'm Mehrzad Asri
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=me-asri"/>
 
-- 📖 Pursuing bachelor's degree at [Urmia University](http://www.urmia.ac.ir/)
+- 📖 Got BSc degree from [Urmia University](http://www.urmia.ac.ir/)
 - 👀 Interested in systems programming and low-level stuff.
 - 🌱 Currently learning back-end development.
 
